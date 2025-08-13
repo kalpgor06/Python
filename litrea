@@ -1,0 +1,14 @@
+# numeric literals in python
+
+# int literal
+val1  = 10
+
+print(val1)
+
+# float litreals
+val2 = 100.50
+print(val2)
+
+# complex litreals
+val3 = 2+5.9
+print(val3)
